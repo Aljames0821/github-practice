@@ -16,7 +16,7 @@ function App() {
         ))}       
         <button className="cancel">C</button>
          <button className="equal">=</button>
-        
+         <button className="equal">delete</button>
       </div>
     </div>
    
